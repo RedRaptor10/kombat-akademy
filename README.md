@@ -25,7 +25,7 @@ Last update: 11/19/2024 (ver. 0.289-1113952)
 *Note: WordPress site, pages, and database must be set up separately if you want to use the site. I will not provide resources for how to set those up.*
 
 ## Discontinuation
-The project has been discontinued for a combination of reasons: The increasing site costs, too much work and not enough time, little to no motivation, low interest and little usage from users, lack of support/donations, personal dislike of the game, bad past experiences, and so on. I don't see much reason for me to continue, so I am leaving this project to the community.
+The project has been discontinued for a combination of reasons: The increasing site costs, too much work and not enough time, little to no motivation, low interest, etc. I don't see much reason for me to continue, so I am leaving this project to the community.
 
 ## Thank You
 Thank you to everyone who has helped me with this project. To all those who supported my Patreon and YouTube, and donated in the past, thank you very much for making this possible.
